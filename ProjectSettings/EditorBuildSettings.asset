@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: fe84cbdb2b90c5a46a5cd940ee21fbef, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1592752b4f3d65549a59e1678706f587, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 86efc1aceee2b974baa52e26271f3047, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9fadca17e347934c9470ebc0b687290, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 76605dbcbff0cfc40922e9892740f7e7, type: 2}
